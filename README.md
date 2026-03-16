@@ -17,7 +17,7 @@ It helps stakeholders understand:
 
 ## 🖼 Dashboard Preview
 
-![Samsung Dashboard](dashboard.png)
+![Final Dashboard](POWER%20BI%20DASHBOARD.png)
 
 ---
 
